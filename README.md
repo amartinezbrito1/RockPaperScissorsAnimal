@@ -39,5 +39,3 @@ Screenshots
 
 Support
 For any issues or questions, please submit a GitHub issue or contact me at mailto:abrahamnicolasmartinezbrito@gmail.com.
-
-I hope this sample README file helps you create a great README for your Rock-Paper-Scissors Android game app!
