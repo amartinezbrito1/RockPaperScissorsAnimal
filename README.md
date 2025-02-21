@@ -1,6 +1,6 @@
 RPS Game Android App
 
-A fun and interactive Rock-Paper-Scissors game for Android devices. This project was to improve my Kotlin animations. 
+A fun and interactive Rock-Paper-Scissors game for Android devices. This project was to improve my animations skills. 
 
 Features
 - Play against the computer or a friend
